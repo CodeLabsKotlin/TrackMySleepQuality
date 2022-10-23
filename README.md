@@ -1,4 +1,4 @@
-# 6.1 TrackMySleepQuality :sleeping: :clock1:
+# 6.1 y 6.2 TrackMySleepQuality :sleeping: :clock1:
 
 ## Descripcion
 En este repositorio se podrá encontrar una aplicacion que nos sirva para contar el tiempo que hemos dormido, registrando la hora de inicio y de final. Nos permite, también, llevar un registro de cómo nos encontramos al despertarnos. Para ello, hemos trabajado con la base de datos Room, a la que accederemos para añadir los datos o eliminarlos.
